@@ -1,8 +1,7 @@
 [linkedin]: https://www.linkedin.com/in/felipe-galvao/
 
 <p align="center">
- <img width="10%" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif
-" />
+ <img width="10%" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
  <img width="6%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
 
