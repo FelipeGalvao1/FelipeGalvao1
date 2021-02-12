@@ -3,12 +3,10 @@
  <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
 
-<br>
-
-<img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipegalvao1&theme=default&show_icons=true&hide_border=true" />
-
-<br>
-
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipegalvao1&theme=default&show_icons=true&hide_border=true" />
+</details>
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
