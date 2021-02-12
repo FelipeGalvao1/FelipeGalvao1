@@ -4,11 +4,11 @@
 </p>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: <span style="font-size:20px"> <b> Github Stats </b> </span></summary>
   <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipegalvao1&theme=default&show_icons=true&hide_border=true" />
 </details>
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: <span style="font-size:20px"> <b> Most Used Languages </b> </span></summary>
   <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
 </details>
 
