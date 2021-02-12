@@ -9,7 +9,10 @@
 
 <br>
 
-<img align="" alt="FelipeGalvao1 Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
+</details>
 
 ### Connect with me:
 
