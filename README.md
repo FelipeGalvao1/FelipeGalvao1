@@ -3,20 +3,13 @@
  <img width="7%"  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" />
 </p>
 
-### Hi there, I'm Felipe 👋
+<br>
 
-🏡 Brazilian, I live in São Paulo-SP
+<img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipegalvao1&theme=default&show_icons=true&hide_border=true" />
 
-## I 'am a student, developer in progress and curious about new technologies and tools.
+<br>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipegalvao1&theme=default&show_icons=true&hide_border=true" />
-</details>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="" alt="FelipeGalvao1 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
-</details>
+<img align="" alt="FelipeGalvao1 Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGalvao1&layout=compact" />
 
 ### Connect with me:
 
